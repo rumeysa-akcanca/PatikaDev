@@ -1,0 +1,2 @@
+# PatikaDev
+Veri Yapıları
